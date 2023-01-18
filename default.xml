@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/nothing/Spacewar" name="NP1-Developers/android_device_nothing_spacewar" revision="crdroid-9" remote="github"/>
+</manifest>
